@@ -94,7 +94,6 @@ dig @127.0.0.1 google.com
 
 *Expected Output: `status: NOERROR` along with the valid IP address in the ANSWER SECTION.*
 
+![Expected DNS Output](dns-setup.png)
 ```
 
-
-![Expected DNS Output](dns-setup.png)

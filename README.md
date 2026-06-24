@@ -96,4 +96,5 @@ dig @127.0.0.1 google.com
 
 ```
 
+
 ![Expected DNS Output](dns-setup.png)
